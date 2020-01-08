@@ -1,0 +1,10 @@
+C:\Users\Furkan\source\repos\Programmeren1_Week3\Opdracht11\obj\Debug\Opdracht11.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\Programmeren1_Week3\Opdracht11\obj\Debug\Opdracht11.Form1.resources
+C:\Users\Furkan\source\repos\Programmeren1_Week3\Opdracht11\obj\Debug\Opdracht11.Properties.Resources.resources
+C:\Users\Furkan\source\repos\Programmeren1_Week3\Opdracht11\obj\Debug\Opdracht11.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\Programmeren1_Week3\Opdracht11\obj\Debug\Opdracht11.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Programmeren1_Week3\Opdracht11\bin\Debug\Opdracht11.exe.config
+C:\Users\Furkan\source\repos\Programmeren1_Week3\Opdracht11\bin\Debug\Opdracht11.exe
+C:\Users\Furkan\source\repos\Programmeren1_Week3\Opdracht11\bin\Debug\Opdracht11.pdb
+C:\Users\Furkan\source\repos\Programmeren1_Week3\Opdracht11\obj\Debug\Opdracht11.exe
+C:\Users\Furkan\source\repos\Programmeren1_Week3\Opdracht11\obj\Debug\Opdracht11.pdb

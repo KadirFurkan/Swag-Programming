@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\Programmeren1_Week2\Opdracht1\obj\Debug\Opdracht1.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\Programmeren1_Week2\Opdracht1\obj\Debug\Opdracht1.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Programmeren1_Week2\Opdracht1\bin\Debug\Opdracht1.exe.config
+C:\Users\Furkan\source\repos\Programmeren1_Week2\Opdracht1\bin\Debug\Opdracht1.exe
+C:\Users\Furkan\source\repos\Programmeren1_Week2\Opdracht1\bin\Debug\Opdracht1.pdb
+C:\Users\Furkan\source\repos\Programmeren1_Week2\Opdracht1\obj\Debug\Opdracht1.exe
+C:\Users\Furkan\source\repos\Programmeren1_Week2\Opdracht1\obj\Debug\Opdracht1.pdb
